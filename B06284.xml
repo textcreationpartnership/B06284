@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the many sad and lamentable accidents that have happened by the fearfull floods occasioned by the late unusual rains in several counties of England, for several days past by which many people, cattle, houses, barnes, much corn and the like have been destroyed, together with the dismal effects of the prodigeous thunder and lightening very amazing and dreadfully attended with many fearful circumstances well worthy the perusal of all Christians.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06284</idno>
+            <idno type="STC">Wing T3005</idno>
+            <idno type="STC">ESTC R232984</idno>
+            <idno type="EEBO-CITATION">52612470</idno>
+            <idno type="OCLC">ocm 52612470</idno>
+            <idno type="VID">179693</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179693)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2796:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the many sad and lamentable accidents that have happened by the fearfull floods occasioned by the late unusual rains in several counties of England, for several days past by which many people, cattle, houses, barnes, much corn and the like have been destroyed, together with the dismal effects of the prodigeous thunder and lightening very amazing and dreadfully attended with many fearful circumstances well worthy the perusal of all Christians.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Natural disasters --  England --  Early works to 1800.</term>
+               <term>Floods --  England --  Early works to 1800.</term>
+               <term>Thunderstorms --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:179693:1" rendition="simple:additions"/>
+            <head>A TRUE RELATION Of the many ſad and Lamentable ACCIDENTS that have HAPPENED BY THE <hi>Fearfull-floods Occaſioned</hi>
+            </head>
+            <argument>
+               <p>By the Late unuſual rains in ſeveral Counties of <hi>England,</hi> for ſeveral days paſt by which many People, Cattle, Houſes, Barnes much Corn and the like have been deſtroyed, to<g ref="char:EOLhyphen"/>gether with the Diſmal effects of the prodigeous Thunder and Lightening very amazing and dreadfull, attended with many fearful circumſtances well worthy the peruſal of all Chriſtians.</p>
+            </argument>
+            <p>SUch of late have been the imoderate Rains accompanyed with Prodigeous Thunders and Lightenings, that conſidering the Seaſon of the year it has proved Extraordinary for fruſtrating the labours of the Husbandman in many places, by the fearful Inundations occaſioned thereby; &amp; proved deſtructive to Men, Wo<g ref="char:EOLhyphen"/>men and Children, Houſe, Cattle, Stacks of Corn, and Hay, and the like, plainly demonſtrating that when the Almighty pleaſes, he can Command the Elements to fight againſt us. But leaving a Ge<g ref="char:EOLhyphen"/>neral Demonſtration, I ſhall come to particulars.</p>
+            <p>On <hi>Saturday</hi> the 19th. of <hi>May,</hi> 1683. A young man formerly living at <hi>Walworth</hi> in <hi>Surry,</hi> riding the Country to buy Horſes at divers Fairs, and returning ſomewhat late in the Evening, thinking that Night to have reached <hi>Dunſtable,</hi> having ſix or ſeven Horſes tied tail to tail, and that day the Impeteous Rains having fallen with<g ref="char:EOLhyphen"/>out intermiſſion for the ſpace of 8 hours, he found that the Land-floods
+<pb n="2" facs="tcp:179693:2"/>and riſing of the Ri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers thereby occaſioned, had raiſed the Waters, to ſuch a hight, that all the Road ſeemed one great River, but yet thinking it not deep, nor the Stream ſo fierce, as he afterwards found it, be adventured to paſs through, but ſoon found his raſhneſs when it admitted of no retreat, for coming to a place where the Water fell from the higher ground diſgorged it ſelf into a low Meddow full of dangerous Ditches, which at that time ſeemed all a Sea, the Horſes who a long time had ſwome with him on their backs, were droven down by the Impetuoſity of the Torrent and he together with them loſt, being carryed the ſpace of 700. yards, and there ſunk in an Oſier D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tch.</p>
+            <p>A Coach, with ſeveral perſons of either Sex, coming from a Village near <hi>Market-Harborough</hi> in <hi>Leiceſter-Shire,</hi> about the begining of the laſt week the Coachman warranting a ſafe paſſage in a deep Road, the Horſes plunging out of their depth, the Coach over-ſet and was notwithſtanding draged by the Horſes, ſwiming for the ſpace of 100 yards, during which ſpace thoſe that were in it could not get out, yet 3. of them, there being 4 in alſo kept their heads a<g ref="char:EOLhyphen"/>bove Water, that they came ſafe to a ſhallow, the fourth being drown<g ref="char:EOLhyphen"/>ed as lying under the reſt, yet ſuch was their Miſerable Condition that when come to the ſhallow, they could ſee no Land, neither be<g ref="char:EOLhyphen"/>fore nor behind them for near a furlong, and the waters ſtill in<g ref="char:EOLhyphen"/>creaſed on them, ſo that they were forced to cut the Horſes Harneſ<g ref="char:EOLhyphen"/>es and tye them by the Rains to one of the wheels to keep them from plunging into a deeper water, then they had with ſo much danger paſ<g ref="char:EOLhyphen"/>ſed; and ſo ſitting together with the Coachman, who had ſaved him<g ref="char:EOLhyphen"/>ſelf by keeping his Box for the ſpace of 4. hours in that Melancholy poſture at the end thereof the Raine having ſometime before ceaſed it ſo pleaſed God that the waters abated, &amp; then geting upon the Horſes they left the Coach and their dead Friend, and returned from whence they came, and to the amazement of the Country people made this Lamentable Relation.</p>
+            <p>A Gentleman coming from <hi>Oxford</hi> on the 29. of <hi>May</hi> between <hi>Wickham</hi> and <hi>Beckonsfield</hi> was together with his Horſe carried away with the Stream, that came out of a Meddow on the right hand into a Meddow on the left, and there plunged into a River that drives the Paper Mills where his Horſe was loſt, and himſelf had followed the ſame fate had not Providence ſo ordered it that he caught hold on a Wiſlow that grew on the Banck, and ſo by ſcrambling up into it ſaved his life, being forced there to continue for the ſpace of four hours, at what time a Millers Boat came to his releife: and we ſince hear, that in the bottom of <hi>Chalk-Hill</hi> near <hi>Stoken</hi> Church a Coach was over-ſet, and two paſſengers drowned, and that 300 Sheep, and ſeveral Cows, and Horſes, periſhed the laſt week by over-flowing of the River <hi>Iſis.</hi>
+            </p>
+            <p>At <hi>Craford</hi> in <hi>Kent,</hi> a fearful Deluge happened on <hi>Whitſun-munday</hi> which entering ſeveral houſes put the people into a great conſterna<g ref="char:EOLhyphen"/>tion cauſing all the wooden Lumber below-ſtairs, to ſwim up and down, as alſo ſeveral Stacks of Hay and Corn, laying many Corn-Fields under water, to the great amazement of the Inhabitants. At what time, likewiſe a perſon looking out at his Window near that
+<pb n="3" facs="tcp:179693:2" rendition="simple:additions"/>place was ſtruck with a flaſh of Lightening, that if he be not ſince dead, 'tis conjectured he cannot live long.</p>
+            <p>A Wagon coming towards <hi>London,</hi> was near <hi>Rumford,</hi> on <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi> laſt, over-ſet by the Violence of the Flood that had rendered the ways exceeding deep, the manner thus; the Horſes plunging into the water the Thill horſe fell down, and in ſtrugling over-threw the Wagon, which preſſed down by the Lading, and people that were therein ſtood almoſt to the middle bar in water, &amp; having caſt the Lading, moſt of which was loſt and ſpoiled by the Violence of the Stream driven down, it turning over and over, at length it was for<g ref="char:EOLhyphen"/>ced with ſuch fury againſt a Bank or rather Sluce, through which the water ruſhed; that it beat in pieces e'r the Horſes could be Diſ<g ref="char:EOLhyphen"/>engaged, and the moſt of them drowned, the Wagoner hardly Eſ<g ref="char:EOLhyphen"/>caping.</p>
+            <p>From <hi>B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſton,</hi> in <hi>Lincoln-Shire.</hi> We have a Relation that 100. head of Cattle have been loſt in the Fenns and Low Grounds <hi>thereabouts.</hi> As likewiſe ſome Houſes Demoliſhed, and many people killed and <hi>hurt, with the</hi> prodigious Thunder and Lightening, <hi>that</hi> has, for a Month paſt, happened in thoſe parts, nor has the Sea by the Exceed<g ref="char:EOLhyphen"/>ing great Land-floods, that have of late rowled into it, failed to over<g ref="char:EOLhyphen"/>flovv its Banks, eſpecially on the Coaſts of <hi>Holland,</hi> and <hi>Zeland,</hi> vvhere the Dikes, being broken through <hi>with</hi> Violence of <hi>the</hi> Waves and <hi>their ſoftneſs,</hi> by reaſon of <hi>the</hi> continual Rain, <hi>that</hi> for <hi>the</hi> ſpace of 13 days, <hi>continued there</hi> above 6000. Acres lie under vvater: and amongſt <hi>other things</hi> a Village in <hi>Zealand</hi> is quite carried a<g ref="char:EOLhyphen"/>way, wherein periſhed ſeveral ſick and ſeeble people who could not fly before the Torrent had ſtopped all paſſages, ſo that their Friends, who in the Conſternation fled, could not return to re<g ref="char:EOLhyphen"/>lieve them without the Eminent hazard of their own lives.</p>
+            <p>In Cambridge on wendneſday laſt a Gentleman and his man at<g ref="char:EOLhyphen"/>tempting to paſs abirdg covered by the water it unhappyly fortuned that a part of it was carryed away by the violenc of the Torrent; ſo that the man venturing for moſt fell with his horſe where both periſh<g ref="char:EOLhyphen"/>ed in the floods; his Maſter not being able to render him any reliefe.</p>
+            <p>At a Place called <hi>Clapham</hi> in <hi>Surry</hi> on this Side Putney on <hi>Tueſ<g ref="char:EOLhyphen"/>day</hi> the 29 of <hi>May</hi> in the Evening as ſeveral People were Siting in a houſe diſcourſing, a flaſh of Lightening of which that night there were many diſmal ones, entering amongſt them ſtruck a girle and a man down upon the flore and ſorely rent the houſe: and after<g ref="char:EOLhyphen"/>wards another Clap of thunder attended with lightening ſtruck an<g ref="char:EOLhyphen"/>other Perſon dovvn as he was traveling by the ſaid houſe ſo that he lay in the ſtreet for dead, all over him being as black as a hat and the houſe for that night and part of the next day was ſo ſtrong Sented with Sulphur that few people could long Indure it, though many as well the Gentry as the poorer ſort hearing of this ſad accident, came to take a view of the lamentable people by the ſaid diſaſter now rendered miſereable ſpectacles.</p>
+            <pb n="4" facs="tcp:179693:3"/>
+            <p>Our Letters from the <hi>North,</hi> continue to give us a Melancholy ac<g ref="char:EOLhyphen"/>count of great Damages ſuſtained in many places, whole Fields of Corn and Graſs lying under vvater, all the Meddovvs, Fenns, and Lovv Grounds ſtanding like a Sea covered vvith vvater, in many places a pikes length in depth, and by the Violence of the ruſhing Floods many up-land Corn-fields are torn, as if it had been nevv Plovved or Harrovved, the rills being ſuch that they ſeem deep Trenches rather then vvater cuts.</p>
+            <p>And thus vve may ſee what frail things we mortals are; and Sud<g ref="char:EOLhyphen"/>dain and unexpected fate overtakes us when we leaſt expect it: there<g ref="char:EOLhyphen"/>fore ever to be prepared for our latter end, come when if will, ſhould be the greateſt buſyneſs of our lives: then let us ever revere &amp; admire that God who at a words ſpeaking can render us breathleſs and by weak means bring the proudeſt to the duſt; for as holy-writ affirmes if his wrath do but a little kindled in his breaſt, Bleſſed are all they that put their truſt in him.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed by <hi>E. Mallet,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
